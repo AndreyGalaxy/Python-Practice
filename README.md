@@ -1,0 +1,1 @@
+This Repository is created for my projects that I have made based on the assignments made on Practice Python. These files are the projects that I have made and completed with help from AI to learn and improve on the code I created for the initial assignment.
